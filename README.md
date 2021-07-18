@@ -1,3 +1,3 @@
 # landing-page
 
-link de acesso: https://landing-page.geisasantos1.repl.co/
+link de acesso: https://ofertas-blackfriday.netlify.app/
